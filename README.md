@@ -4,7 +4,7 @@ Infmor（インフモア）は、Fira Mono、Inconsolata、Moralerspaceからな
 
 ![test](images/readme-1.png)
 
-## 特徴
+## 仕様
 
 ### 英数字はFira Mono
 
