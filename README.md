@@ -11,6 +11,7 @@ Infmor（インフモア）は、Fira Mono、Inconsolata、Moralerspaceからな
 ### 英数字はFira Mono
 
 - `0`をドット付きから斜線付きに変更
+- `r`を調整(v1.1)
 
 ### 記号はInconsolata
 
